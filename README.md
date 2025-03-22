@@ -55,3 +55,13 @@ si vous souhaitez contribuer , suivez les étapes ci_dessous pour faire un **for
 ``` bash
 git clone https://github.com/yousfimaisa/projet.git 
 cd projet 
+
+## Licence 
+
+### Exemple pour **Licence**:
+``` markdown 
+## Licence 
+ce projet est sous la licence **XXX** , pour plus de détails , consultez le fichier [LICENSE](./LICENSE).
+
+### Détails sur la licence MIT 
+la licence XXX est une license de logiciel ....
