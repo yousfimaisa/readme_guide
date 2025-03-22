@@ -18,7 +18,7 @@ Need For Ride est une application web intelligente visant à optimiser les dépl
  2. si vous utiliser WAMP ou XAMPP : 
  * placer le projt dans le dossier www(WAMP) ou htdocs (XAMPP).
  * demarrez apache et MySQL depuis l'interface de WAMP/XAMPP.
- * accedez au projet via http://localhost/projet.
+ * accedez au projet via http://localhost/projetwebsem2maissa.
 # Utilisation
 ### Installation de php 
  pour utiliser ce projet , vous devez installer PHP , Voici les étapes :
