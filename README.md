@@ -19,3 +19,21 @@ Need For Ride est une application web intelligente visant à optimiser les dépl
  * placer le projt dans le dossier www(WAMP) ou htdocs (XAMPP).
  * demarrez apache et MySQL depuis l'interface de WAMP/XAMPP.
  * accedez au projet via http://localhost/projet.
+# Utilisation
+### Installation de php 
+ pour utiliser ce projet , vous devez installer PHP , Voici les étapes :
+ 1. télécharger PHP a partir du site officiel : [PHP _ telechargement](https://www.php.net/downlowads.php).
+ 2. installer php en suivant les instructions spécifiques a votre systeme d'exploitation :
+ - pour **windows** , vous devez utiliser [XAMPP](https://www.apachefriends.org/fr/index.html) ou [WampServer](https://www.wampserver.com/).
+ - pour **macOS** , vous pouvez utiliser [Homebrew](https://brew.sh) ,puis executer la commande suivante dans le terminal : 
+```bash 
+brew install php 
+```
+- pour **Linux** , vous pouvez installer PHP via le gestionnaire e paquets . par exemple , sur ubintu :
+``` bash 
+sudo apt update 
+sudo apt install php
+```
+3. verifier l'installation de php en éxécutant la commande suivante dans votre terminal :
+``` bash 
+php -v 
