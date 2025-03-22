@@ -15,4 +15,7 @@ Need For Ride est une application web intelligente visant à optimiser les dépl
  '''bash
  git clone https://github.com/yousfimaisa/readme_guide.git
  cd projet 
- 
+ 2. si vous utiliser WAMP ou XAMPP : 
+ * placer le projt dans le dossier www(WAMP) ou htdocs (XAMPP).
+ * demarrez apache et MySQL depuis l'interface de WAMP/XAMPP.
+ * accedez au projet via http://localhost/projet.
