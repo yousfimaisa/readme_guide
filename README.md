@@ -37,3 +37,21 @@ sudo apt install php
 3. verifier l'installation de php en éxécutant la commande suivante dans votre terminal :
 ``` bash 
 php -v 
+
+
+## Contributions
+Nous remercions tous ceeux qui ont contribué a ce projet :
+### Contributeurs 
+Les personnes suivantes ont contribué a ce projet en ajoutant des fonctionnalitées , en corrigeant des bugs ou en améliorant la documentation :
+-[Utilisateur1](https://github.com/yousfimaisa) - correction de bugs et améloration des performances etc ....
+-[Utilisateur1](https://github.com/abdelkefinermine) - ajout de la fonctionnalité ..
+-[Utilisateur1](https://github.com/mrabtinigaith) - 
+rédaction de la documentation etc ..
+
+si vous souhaitez contribuer , suivez les étapes ci_dessous pour faire un **fork** , créer une nouvelle branche et soumettre une **pullrequest**.
+### comment contribuer ? 
+1. **Fork le projet** : allez sur la page GitHub du projet et cliquer sur le bouton **Fork** dans le coin sup droite pour créer  une copie du projet dans  votre propre compte GitHub .
+2. **clonez votre  fork ** : clonez le fork sur votre machine locale : 
+``` bash
+git clone https://github.com/yousfimaisa/projet.git 
+cd projet 
