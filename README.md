@@ -67,4 +67,4 @@ ce projet est sous la licence **XXX** , pour plus de détails , consultez le fic
 la licence XXX est une license de logiciel ....
 
 
-- [@abdelkefinermine](https://github.com/nermine-abdelkefi) – Fonctionnalités
+- [@nermine-abdelkefi](https://github.com/nermine-abdelkefi) – Fonctionnalités
