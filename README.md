@@ -65,3 +65,6 @@ ce projet est sous la licence **XXX** , pour plus de détails , consultez le fic
 
 ### Détails sur la licence MIT 
 la licence XXX est une license de logiciel ....
+
+
+- [@abdelkefinermine](https://github.com/nermine-abdelkefi) – Fonctionnalités
